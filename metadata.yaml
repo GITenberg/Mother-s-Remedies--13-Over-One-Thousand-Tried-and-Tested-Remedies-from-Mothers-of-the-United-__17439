@@ -1,0 +1,29 @@
+_repo: Mother-s-Remedies--13-Over-One-Thousand-Tried-and-Tested-Remedies-from-Mothers-of-the-United-__17439
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ritter, Thomas Jefferson
+    birthdate: 1855
+    gutenberg_agent_id: '7379'
+    url: http://www.gutenberg.org/2009/agents/7379
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2006-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17439'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Etiquette'
+- !lcc 'RC'
+- !lcsh 'Formulas, recipes, etc.'
+- !lcsh 'Medicine, Popular'
+title: "Mother's Remedies\r\nOver One Thousand Tried and Tested Remedies from Mothers\
+  \ of the United States and Canada"
+url: http://www.gutenberg.org/ebooks/17439
